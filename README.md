@@ -1,2 +1,2 @@
-# collegeproje ct-
+# collegeproje
 
